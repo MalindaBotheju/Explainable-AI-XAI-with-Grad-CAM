@@ -5,7 +5,7 @@
 This project implements **Grad-CAM (Gradient-weighted Class Activation Mapping)** to visualize the decision-making process of a Deep Learning model. It takes a standard "Black Box" model (VGG16) and generates a heatmap showing exactly which pixels influenced the prediction.
 
 ## 🖼️ Project Demo
-![AI Heatmap](gradcam_result.jpg)
+![AI Heatmap](gradcam_result.png)
 *(Left: Original Image | Right: Heatmap showing the model's focus area)*
 
 ## 🎯 Why This Matters
